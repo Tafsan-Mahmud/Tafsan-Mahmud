@@ -1,7 +1,7 @@
 ### Hi there 👋 Im Tafsan Mahmud Nobin from Bangladesh ,and i do desgin and devlopment. i really enjoy learning languages and frameworks like Javascript, React , typescript etc 
 
 
- -  I'm a MERN Stack Developer
+ I'm a MERN Stack Developer
 
 - 🔭 Programming is my passion 
 - 🌱 Everyday I try to solve some problem by using javaScipt.
