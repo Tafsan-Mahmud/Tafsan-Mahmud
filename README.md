@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abuhasnatnobin" target="bold"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="abuhasnatnobin" height="30" width="40" /></a>
 <a href="https://fb.com/tafsanmahmudnobin090" target="bold"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="tafsanmahmudnobin090" height="30" width="40" /></a>
-<a href="https://instagram.com/tafsan_mahmud_07" target="bold"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="tafsan_mahmud_07" height="30" width="40" /></a>
+<a href="https://instagram.com/tafsan_mahmud_07" target="bold"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384031.svg?token=exp=1619816981~hmac=961e57ea178f9b432b6faeef5ac15758" alt="tafsan_mahmud_07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
