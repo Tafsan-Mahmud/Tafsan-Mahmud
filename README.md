@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abuhasnatnobin" target="bold"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384046.svg?token=exp=1619817116~hmac=cefa86d5374ac5fc2055730eb8844cbc" alt="abuhasnatnobin" height="30" width="40" /></a>
-<a href="https://fb.com/tafsanmahmudnobin090" target="bold"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384021.svg?token=exp=1619817052~hmac=7c9ec8ee51a18f46b077099424ac3c48" alt="tafsanmahmudnobin090" height="30" width="40" /></a>
-<a href="https://instagram.com/tafsan_mahmud_07" target="bold"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384047.svg?token=exp=1619817160~hmac=6ecfa33a913a20cc5f7e4825146ece51" alt="tafsan_mahmud_07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abuhasnatnobin" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384046.svg?token=exp=1619817116~hmac=cefa86d5374ac5fc2055730eb8844cbc" alt="abuhasnatnobin" height="30" width="40" /></a>
+<a href="https://fb.com/tafsanmahmudnobin090" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384021.svg?token=exp=1619817052~hmac=7c9ec8ee51a18f46b077099424ac3c48" alt="tafsanmahmudnobin090" height="30" width="40" /></a>
+<a href="https://instagram.com/tafsan_mahmud_07" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384047.svg?token=exp=1619817160~hmac=6ecfa33a913a20cc5f7e4825146ece51" alt="tafsan_mahmud_07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
