@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tafsan Mahmud Nobin</h1>
-<h3 align="center">I'm a MERN Stack Developer</h3>
+<h3 align="center">I'm a Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tafsan-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="tafsan-mahmud" /> </p>
 
