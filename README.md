@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abuhasnatnobin" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2973/PNG/512/linkedin_logo_icon_186926.png" alt="abuhasnatnobin" height="30" width="40" /></a>
-<a href="https://fb.com/tafsanmahmudnobin090" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2973/PNG/512/facebook_logo_icon_186912.png" alt="tafsanmahmudnobin090" height="30" width="40" /></a>
-<a href="https://instagram.com/tafsan_mahmud_07" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2973/PNG/512/instagram_logo_icon_186929.png" alt="tafsan_mahmud_07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abuhasnatnobin" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2973/PNG/512/linkedin_logo_icon_186926.png" alt="abuhasnatnobin" height="40" width="40" /></a>
+<a href="https://fb.com/tafsanmahmudnobin090" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2973/PNG/512/facebook_logo_icon_186912.png" alt="tafsanmahmudnobin090" height="40" width="40" /></a>
+<a href="https://instagram.com/tafsan_mahmud_07" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2973/PNG/512/instagram_logo_icon_186929.png" alt="tafsan_mahmud_07" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
