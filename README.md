@@ -109,14 +109,6 @@ npm install react-native-modern-shimmer
 
 ---
 
-## &nbsp;📈 Contribution Graph
-
-<a href="https://github.com/Tafsan-Mahmud">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tafsan-Mahmud&bg_color=0d1b4b&color=60a5fa&line=1d4ed8&point=dc2626&area=true&area_color=1d4ed822&hide_border=true" width="100%"/>
-</a>
-
----
-
 ## &nbsp;🤝 Let's Connect
 
 <div align="center">
