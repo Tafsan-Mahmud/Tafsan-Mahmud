@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d2e,35:0a0a0a,70:1a0000,100:7f1d1d&height=230&section=header&text=Abu%20Hasnat%20Nobin&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=21&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d2e,35:0a0a0a,70:1a0000,100:7f1d1d&height=230&section=header&text=Abu%20Hasnat%20Nobin&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Developer&descAlignY=58&descSize=21&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 ```ts
 const nobin = {
   name      : "Abu Hasnat Nobin",
-  role      : "Full Stack Developer",
+  role      : "Full Stack Software Developer",
   location  : "Bangladesh 🇧🇩",
   focus     : ["Web Apps", "Mobile Apps", "REST APIs", "Open Source"],
   npm       : "react-native-modern-shimmer",
