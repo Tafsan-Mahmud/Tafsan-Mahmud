@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d2e,35:0a0a0a,70:1a0000,100:7f1d1d&height=230&section=header&text=Abu%20Hasnat%20Nobin&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20Full-%20Stack&descAlignY=58&descSize=21&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d2e,35:0a0a0a,70:1a0000,100:7f1d1d&height=230&section=header&text=Abu%20Hasnat%20Nobin&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20Full-%Stack&descAlignY=58&descSize=21&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
